@@ -4,13 +4,13 @@
 &ensp; &ensp; &ensp; &ensp; As far as we have surveyed, crack datasets available on internet are mostly 
 focused on roads and building walls, which usually do not involved with very 
 complex textures. Besides that, images in those datasets are mostly captured by 
-consumer's devices like cellphones, with little restrictions on capture distance or 
-angles, and all that makes pixel resolutions vary. Meanwhile, our country's guiding 
+consumer's devices like cellphone, with little restrictions on photo distance,
+angles or lighting conditions, and all that makes pixel resolution as well as image quality vary a lot. Meanwhile, our country's guiding 
 principles on building structures' visual inspection holds a standard that cracks with 
 width above 0.1mm should all be noticed.
 
-&ensp; &ensp; &ensp; &ensp; So, we published our crack dataset DroneCapturedTinyCrackDataset( DCTCD ) to solve problems all above. Our dataset is 
-obtained with our company's drones which is designed for accurate crack detection in unreachable places like bridge beams or pier inner walls,lightning devices are equipped for 
+&ensp; &ensp; &ensp; &ensp; So, we published our crack dataset DroneCapturedTinyCrackDataset( DCTCD ) to meet shortage above. Our dataset is 
+obtained with our company's drones which is designed for accurate crack detection in unreachable places like bridge beams or pier inner walls,lighting devices are also equipped for 
 all day usage. Besides, photo distances and angle are controlled to ensure 0.1mm resolution per pixel 
 highest. Complex textures like scrawls, efflorenscenes are 
 involved, as well as image degradation factors like motion blur, defocus blur, ISO 
