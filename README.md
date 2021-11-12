@@ -46,6 +46,7 @@ images which dimenesion are all 512x512x3; we show some of our samples below.
 
 ### Download:
 You can also download the pretrained model from the following link,
-[BaiduYunPan(Code:JYAI)](https://pan.baidu.com/s/1T3ggJ331ReMREiIy7MceFg) 
+[BaiduYunPan(Code:JYAI)](https://pan.baidu.com/s/1T2NAA3rPf5m9dfB1_kTm7A)
+ 
 ### Contaction:
  Dr. MingPeng.Li  &ensp; &ensp;   Email Address mpli@whu.edu.cn 
