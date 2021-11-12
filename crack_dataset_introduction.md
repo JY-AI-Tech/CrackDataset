@@ -45,7 +45,7 @@ images which dimenesion are all 512x512x3; we show some of our samples below.
 
 #### Demos 
 &ensp; &ensp; &ensp; &ensp; Some of our image demos are showed below,  <br>
-     ![img_5.png](img_5.png)
+     ![img_5.png](https://github.com/JY-AI-Tech/CrackDataset/blob/main/img_5.png)
 
 ### Download:
 You can also download the pretrained model from the following link,
