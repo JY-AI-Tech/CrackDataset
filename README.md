@@ -24,7 +24,7 @@ total sum of edge image' s gray value are calculated and then divided with pixel
 sum of the edge image, to produce a factor as we called edge complexity. The larger 
 the factor is, the more difficult it is for crack classification
 ### Demos 
-&ensp;  &ensp;According to this edge complexity factor, we divided our crack dataset into five folds, 
+&ensp; &ensp;&ensp; &ensp;According to this edge complexity factor, we divided our crack dataset into five folds, 
 from H1 to H5. H1 is the simplest, H5 is the hardest. Each folder contains 50 crack 
 images which dimenesion are all 512x512x3; we show some of our samples below.
      ![img_5.png](https://github.com/JY-AI-Tech/CrackDataset/blob/main/img_5.png)
