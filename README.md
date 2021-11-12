@@ -31,7 +31,7 @@ images which dimenesion are all 512x512x3; we show some of our samples below.
 ### Crack Dataset Attribute
 &ensp; &ensp; &ensp; &ensp; Detail descriptions about our crack datasets are in the table
 <br>
-     
+<div class="center">     
 |  Attribute     | Description   |
 | :---        |    :----:   |
 | Dataset Name      |     DroneCapturedTinyCrackDataset (DCTCD)  |
